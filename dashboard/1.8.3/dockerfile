@@ -1,1 +1,2 @@
-
+From gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.3
+MAINTAINER polarwu <547636195@qq.com>
