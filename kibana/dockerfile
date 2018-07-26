@@ -1,2 +1,2 @@
-FROM docker.elastic.co/kibana/kibana:6.2.4
+FROM docker.elastic.co/kibana/kibana:5.6.10
 MAINTAINER polarwu <547636195@qq.com>
